@@ -1,8 +1,8 @@
 
-<title>Anamitra Musib PHP</title>
-<h1>Anamitra Musib PHP</h1>
+<title>Akash Mondal PHP</title>
+<h1>Akash Mondal PHP</h1>
 <p><?php
-	print "The SHA256 hash of \"Anamitra Musib\" is ".hash('sha256', 'Anamitra Musib');
+	print "The SHA256 hash of \"Akash Mondal\" is ".hash('sha256', 'Akash Mondal');
 ?></p>
 <pre>ASCII ART:
 	       ***
