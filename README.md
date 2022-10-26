@@ -2,7 +2,7 @@
 This repository contains notes, assignments, quizzes and code files from the "Building Web Applications in PHP" course by University of Michigan, on Coursera.
 
 
-![Course Completion certificate]("spardn.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/certificate.png")
+![Course Completion certificate]("https://github.com/spardn/BuildingWebApplicationsInPHP-master/blob/main/Certificate.png")
 
 
 
